@@ -40,4 +40,4 @@ Modern design with Dark Mode support
 Secure and reliable data handling
 
 The Water Billing System is designed to streamline water utility operations by providing a simple, efficient, and professional platform for managing customers and billing activities.
-This system has been developed by Abdulrhaman Kimbo whose regostration 14323011/T.24 ICTB in Mzumbe University
+This system has been developed by Abdulrhaman Kimbo whose registration 14323011/T.24 ICTB in Mzumbe University
