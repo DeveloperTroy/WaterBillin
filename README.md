@@ -1,3 +1,4 @@
+
 Dashboard
 
 The dashboard serves as the central hub of the Water Billing System, providing a real-time overview of key statistics such as total customers, generated bills, revenue collection, and payment status summaries.
@@ -39,3 +40,4 @@ Modern design with Dark Mode support
 Secure and reliable data handling
 
 The Water Billing System is designed to streamline water utility operations by providing a simple, efficient, and professional platform for managing customers and billing activities.
+This system has been developed by Abdulrhaman Kimbo whose regostration 14323011/T.24 ICTB in Mzumbe University
